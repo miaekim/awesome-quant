@@ -56,43 +56,24 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Trading & Backtesting
 
-- [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-- [trade](https://github.com/rochars/trade) - trade is a Python framework for the development of financial applications.
-- [zipline](https://www.zipline.io) - Pythonic algorithmic trading library.
-- [QuantSoftware Toolkit](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
-- [quantitative](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
-- [analyzer](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
 - [bt](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
 - [backtrader](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-- [pythalesians](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
-- [pybacktest](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
-- [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 - [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
 - [Pandas TA](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-- [algobroker](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
-- [pysentosa](https://pypi.org/project/pysentosa/) - Python API for sentosa trading system.
 - [finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
-- [binary-martingale](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
-- [fooltrader](https://github.com/foolcage/fooltrader) - the project using big-data technology to provide an uniform way to analyze the whole market.
-- [zvt](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
 - [pylivetrader](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
 - [pipeline-live](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
-- [zipline-extensions](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
-- [moonshot](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
 - [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
 - [riskparity.py](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
 - [mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 - [pyqstrat](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-- [NowTrade](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-- [pinkfish](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
 - [aat](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 - [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 - [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [qtpylib](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io> 
-- [Quantdom](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI :neckbeard:]
-- [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- **[freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot**
 - [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Free `pandas` and `scikit-learn` resources for trading simulation, backtesting, and machine learning on financial data.
 - [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
 
@@ -101,7 +82,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 - [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
 - [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios.
-- [finance](https://pypi.org/project/finance/) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
 - [qfrm](https://pypi.org/project/qfrm/) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
 - [visualize-wealth](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
 - [VisualPortfolio](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the perfomance of a portfolio.
